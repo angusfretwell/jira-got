@@ -18,6 +18,7 @@ function jira(path, opts) {
 
   opts.headers = Object.assign({
     accept: 'application/json',
+    'Content-Type': 'application/json',
   }, opts.headers);
 
   if (opts.token) {
