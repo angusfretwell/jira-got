@@ -1,6 +1,6 @@
 {
   "name": "jira-got",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Convenience wrapper for `got` to interact with the Jira API",
   "main": "index.js",
   "scripts": {
