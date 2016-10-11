@@ -29,7 +29,7 @@
     "codecov": "^1.0.1",
     "eslint": "^2.8.0",
     "eslint-config-airbnb": "^7.0.0",
-    "eslint-plugin-import": "^1.4.0",
+    "eslint-plugin-import": "^2.0.1",
     "get-stream": "^2.0.0",
     "mocha": "^2.4.5",
     "should": "^8.3.1"
